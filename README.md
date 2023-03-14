@@ -1,4 +1,4 @@
-#  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&pause=1000&color=7F1359&width=435&lines=Welcome+everyone)](https://git.io/typing-svg)
+#  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&pause=1000&color=7F1359&width=435&lines=Welcome+everyone !)](https://git.io/typing-svg)
 🔭 I’m currently working on everything<br> 📌Located in Albania<br><br>
 
 
